@@ -15,7 +15,7 @@ import lombok.Setter;
 @EqualsAndHashCode
 @Embeddable
 public class Address {
-    String city;
-    String street;
-    Integer building;
+	 String city;
+     String street;
+     Integer building;
 }
